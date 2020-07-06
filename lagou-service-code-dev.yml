@@ -1,0 +1,9 @@
+mysql:
+  url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Europe/Amsterdam
+mail:
+  host: smtp.gmail.com
+  port: 587
+request:
+  strategy:
+    x: 10
+    y: 2     
